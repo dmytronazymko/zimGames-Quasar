@@ -1,0 +1,12 @@
+{
+	"images": [
+		"target.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 128, 128, 0, 0,	-5]
+	],
+	"animations": {
+		"but": {"frames": [0]}
+	}
+}

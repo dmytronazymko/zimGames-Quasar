@@ -1,0 +1,39 @@
+{
+
+"images": [
+    "towerDefense.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 280, 148, 0, -11, 0],
+    [1, 151, 255, 119, 0, 0, 0],
+    [1, 272, 105, 18, 0, 0, 0],
+    [108, 272, 105, 18, 0, 0, 0],
+    [215, 272, 54, 18, 0, 0, 0],
+    [258, 151, 255, 119, 0, 0, 0],
+    [271, 272, 54, 18, 0, 0, 0],
+    [283, 1, 280, 144, 0, -11, 0],
+    [515, 147, 291, 143, 0, 0, 0],
+    [565, 1, 255, 119, 0, 0, 0]
+],
+
+"animations": {
+    "tower3": { "frames": [0] },
+    "button1": { "frames": [1] },
+    "tower-life-empty": { "frames": [2] },
+    "tower-life-full": { "frames": [3] },
+    "enemy-life-empty": { "frames": [4] },
+    "button2": { "frames": [5] },
+    "enemy-life-full": { "frames": [6] },
+    "tower2": { "frames": [7] },
+    "tower1": { "frames": [8] },
+    "button3": { "frames": [9] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:faf6597c0767befc21140eb3dfd68bcf:6944cdfc21cbfbeea12e70377b2af50d:441e4c6f51b215ec95c8ff350abad1f4$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

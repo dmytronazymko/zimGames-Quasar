@@ -1,0 +1,12 @@
+{
+	"images": [
+		"answer.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 151, 116, 0, 0,	-5]
+	],
+	"animations": {
+		"answer": {"frames": [0]}
+	}
+}

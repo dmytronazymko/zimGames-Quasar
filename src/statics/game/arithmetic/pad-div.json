@@ -1,0 +1,12 @@
+{
+	"images": [
+		"pad-div.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 110, 118, 0, 0,	-5]
+	],
+	"animations": {
+		"pad": {"frames": [0]}
+	}
+}

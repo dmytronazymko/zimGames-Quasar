@@ -1,0 +1,47 @@
+{
+
+"images": [
+    "missile.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 813, 132, 0, 0, 0],
+    [816, 1, 30, 127, 0, 0, 0],
+    [1, 135, 813, 132, 0, 0, 0],
+    [1, 269, 813, 132, 0, 0, 0],
+    [1, 403, 813, 132, 0, 0, 0],
+    [1, 537, 304, 374, 0, 0, 0],
+    [307, 537, 304, 374, 0, 0, 0],
+    [613, 537, 304, 374, 0, 0, 0],
+    [1, 913, 304, 374, 0, 0, 0],
+    [1, 1289, 304, 374, 0, 0, 0],
+    [307, 913, 304, 374, 0, 0, 0],
+    [307, 1289, 304, 374, 0, 0, 0],
+    [613, 913, 304, 374, 0, 0, 0],
+    [613, 1289, 145, 213, 0, 0, 0],
+    [613, 1504, 149, 150, 0, 0, 0],
+    [764, 1289, 116, 118, 0, 0, 0],
+    [764, 1409, 115, 118, 0, 0, 0]
+],
+
+"animations": {
+    "base-a": { "frames": [0] },
+    "missile": { "frames": [1] },
+    "base-b": { "frames": [2] },
+    "base-c": { "frames": [3] },
+    "base-d": { "frames": [4] },
+    "rocket": { "frames": [5] },
+    "rocketExplosion": { "frames": [6, 7, 8, 9, 10, 11, 12], "next": "", "speed": 0.1 },
+    "tank": { "frames": [13] },
+    "button-fire": { "frames": [14] },
+    "tank-gear2": { "frames": [15] },
+    "tank-gear": { "frames": [16] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:85c964790a485a694e2596f65acee657:cd513bcd241a8ddb7a435f48c4cbeb48:374f7ff32664eed124db18508e855e3b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

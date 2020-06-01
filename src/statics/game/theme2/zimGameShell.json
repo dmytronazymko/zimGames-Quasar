@@ -1,0 +1,81 @@
+{
+
+"images": [
+    "zimGameShell.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 854, 827, 0, 0, -3],
+    [857, 1, 1029, 44, 0, 0, -11],
+    [1, 830, 299, 250, 0, 0, 0],
+    [1, 1082, 97, 86, 0, 0, 0],
+    [100, 1082, 240, 50, 0, 0, 0],
+    [302, 830, 256, 248, 0, 0, 0],
+    [342, 1080, 98, 96, 0, 0, 0],
+    [442, 1080, 98, 96, 0, 0, 0],
+    [542, 1080, 98, 96, 0, 0, 0],
+    [560, 830, 255, 248, 0, -1, 0],
+    [642, 1080, 98, 96, 0, 0, 0],
+    [742, 1080, 98, 96, 0, 0, 0],
+    [817, 830, 197, 192, 0, 0, 0],
+    [817, 1024, 240, 50, 0, 0, 0],
+    [842, 1076, 212, 100, 0, 0, 0],
+    [1056, 1076, 98, 100, 0, 0, 0],
+    [857, 47, 975, 651, 0, 0, 0],
+    [1834, 47, 98, 101, 0, 0, 0],
+    [1834, 150, 98, 97, 0, 0, 0],
+    [1834, 249, 98, 96, 0, 0, 0],
+    [1834, 347, 98, 96, 0, 0, 0],
+    [1834, 445, 98, 96, 0, 0, 0],
+    [1834, 543, 98, 96, 0, 0, 0],
+    [1834, 641, 98, 96, 0, 0, 0],
+    [1059, 700, 501, 370, 0, -2, -2],
+    [1156, 1072, 203, 98, 0, 0, 0],
+    [1361, 1072, 100, 97, 0, 0, 0],
+    [857, 700, 120, 118, 0, 0, 0],
+    [1562, 700, 196, 192, 0, 0, 0],
+    [1760, 739, 120, 118, 0, 0, 0],
+    [1562, 894, 276, 176, 0, 0, 0]
+],
+
+"animations": {
+    "game-over-box": { "frames": [0] },
+    "header-line": { "frames": [1] },
+    "score-bg": { "frames": [2] },
+    "heart-icon": { "frames": [3] },
+    "timer-gauge-empty": { "frames": [4] },
+    "button-play": { "frames": [5] },
+    "num0": { "frames": [6] },
+    "num1": { "frames": [7] },
+    "num2": { "frames": [8] },
+    "button-restart": { "frames": [9] },
+    "num3": { "frames": [10] },
+    "num4": { "frames": [11] },
+    "button-home": { "frames": [12] },
+    "timer-gauge-full": { "frames": [13] },
+    "answer-box": { "frames": [14] },
+    "arrow-down": { "frames": [15] },
+    "start-box": { "frames": [16] },
+    "arrow-up": { "frames": [17] },
+    "arrow-right": { "frames": [18] },
+    "num5": { "frames": [19] },
+    "num6": { "frames": [20] },
+    "num7": { "frames": [21] },
+    "num8": { "frames": [22] },
+    "num9": { "frames": [23] },
+    "game-over": { "frames": [24] },
+    "num-enter": { "frames": [25] },
+    "arrow-left": { "frames": [26] },
+    "button-left": { "frames": [27] },
+    "button-settings": { "frames": [28] },
+    "button-right": { "frames": [29] },
+    "timer-bg": { "frames": [30] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:abbe053247ee4ae091964fb6d40a6a37:e90b180f815ba415c8b09e35ad11ac68:1e0ebf48b61f26ab5adf343ba7eb006b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

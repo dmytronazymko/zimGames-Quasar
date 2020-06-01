@@ -1,0 +1,47 @@
+{
+
+"images": [
+    "whack.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 350, 379, 0, -108, -1],
+    [1, 382, 278, 96, 0, 0, -114],
+    [1, 480, 3, 3, 0, 0, 0],
+    [281, 382, 278, 95, 0, 0, -118],
+    [281, 382, 278, 95, 0, 0, -118],
+    [353, 1, 469, 354, 0, 0, -99],
+    [561, 357, 278, 103, 0, 0, -107],
+    [824, 1, 469, 340, 0, 0, -113],
+    [841, 343, 278, 139, 0, 0, -74],
+    [841, 343, 278, 139, 0, 0, -74],
+    [1121, 343, 278, 95, 0, 0, -118],
+    [1121, 343, 278, 95, 0, 0, -118],
+    [1295, 1, 364, 280, 0, -105, -99],
+    [1661, 1, 278, 213, 0, 0, 0],
+    [1661, 216, 278, 166, 0, 0, -44],
+    [1401, 283, 187, 201, 0, 0, 0],
+    [1590, 384, 80, 73, 0, -3, 0],
+    [1672, 384, 85, 70, 0, 0, 0]
+],
+
+"animations": {
+    "hammer-idle": { "frames": [0] },
+    "hole-hit": { "frames": [14, 6, 1], "next": "", "speed": 0.1 },
+    "empty": { "frames": [2] },
+    "hole-appear": { "frames": [3, 8, 13], "next": "", "speed": 0.1 },
+    "hole-hide": { "frames": [9, 4, 11], "next": "", "speed": 0.1 },
+    "hammer-hit": { "frames": [12, 5, 7], "next": "", "speed": 0.1 },
+    "hole-empty": { "frames": [10] },
+    "answer-flag": { "frames": [15] },
+    "icon-cross": { "frames": [16] },
+    "icon-check": { "frames": [17] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:17d1b6ba9eb6ffab067d47d876ffe9cb:97838cc18ad764b554ec9a9f7fe531f3:4441cdf667e556d200ada809206886e7$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

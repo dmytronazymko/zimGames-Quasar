@@ -1,0 +1,12 @@
+{
+	"images": [
+		"box.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 100, 110, 0, 0,	-5]
+	],
+	"animations": {
+		"pad": {"frames": [0]}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"images": [
+		"answer-box.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 87, 68, 0, 0, 0]
+	],
+	"animations": {
+		"box": {"frames": [0]}
+	}
+}

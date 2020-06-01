@@ -1,0 +1,44 @@
+{
+
+"images": [
+    "sample.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 304, 374, 0, 0, 0],
+    [1, 377, 304, 374, 0, 0, 0],
+    [1, 753, 304, 374, 0, 0, 0],
+    [1, 1129, 393, 300, 0, 0, 0],
+    [1, 1431, 393, 300, 0, 0, 0],
+    [1, 1733, 393, 300, 0, 0, 0],
+    [307, 1, 304, 374, 0, 0, 0],
+    [307, 377, 304, 374, 0, 0, 0],
+    [307, 753, 393, 300, 0, 0, 0],
+    [613, 1, 304, 374, 0, 0, 0],
+    [613, 377, 393, 300, 0, 0, 0],
+    [396, 1055, 304, 374, 0, 0, 0],
+    [396, 1431, 393, 300, 0, 0, 0],
+    [396, 1733, 393, 300, 0, 0, 0],
+    [702, 679, 304, 374, 0, 0, 0],
+    [702, 1055, 255, 120, 0, 0, 0],
+    [702, 1177, 255, 120, 0, 0, 0],
+    [702, 1299, 255, 120, 0, 0, 0]
+],
+
+"animations": {
+    "rocket": { "frames": [0] },
+    "rocketExplosion": { "frames": [1, 2, 6, 7, 9, 11, 14], "next": "", "speed": 0.2 },
+    "blueKilledByBow": { "frames": [3, 4, 5], "next": "", "speed": 0.1 },
+    "blueWalk": { "frames": [8, 10, 12, 13], "next": "blueWalk", "speed": 0.1 },
+    "button1": { "frames": [15] },
+    "button2": { "frames": [16] },
+    "button3": { "frames": [17] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:d5865ab2385a4652b9042e9d1995e65c:0513a1843fe5bb9d7301cd8aa1304b35:0f4259f97f50cf909faace4f00860e58$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

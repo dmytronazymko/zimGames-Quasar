@@ -1,0 +1,46 @@
+{
+
+"images": [
+    "ninja-direction.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 501, 137, 0, 0, 0],
+    [504, 1, 313, 111, 0, 0, 0],
+    [819, 1, 265, 233, 0, -1, -1],
+    [504, 114, 93, 93, 0, 0, -1],
+    [599, 114, 93, 93, 0, 0, -1],
+    [694, 114, 93, 93, 0, 0, -1],
+    [1, 140, 93, 93, 0, 0, -1],
+    [96, 140, 93, 93, 0, 0, -1],
+    [191, 140, 93, 93, 0, 0, -1],
+    [286, 140, 93, 93, 0, 0, -1],
+    [381, 140, 93, 93, 0, 0, -1],
+    [1086, 1, 254, 233, 0, -1, -1],
+    [1342, 1, 234, 233, 0, -1, -1],
+    [1578, 1, 142, 159, 0, 0, 0]
+],
+
+"animations": {
+    "direction-box": { "frames": [0] },
+    "timer-box": { "frames": [1] },
+    "hole": { "frames": [2, 11, 12], "next" : "" ,"speed": 0.1},
+    "holestop": { "frames": [2]},
+    "button-bot-left": { "frames": [3] },
+    "button-bot-right": { "frames": [4] },
+    "button-bottom": { "frames": [5] },
+    "button-left": { "frames": [6] },
+    "button-right": { "frames": [7] },
+    "button-top-left": { "frames": [8] },
+    "button-top-right": { "frames": [9] },
+    "button-top": { "frames": [10] },
+    "compass": { "frames": [13] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:f6e2d2bd343c3afb4ff1ec49d9387fd9:586da624e0cbc453b8474de9d072acbf:05db6144b7db60f21dba0940866fbdc6$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,12 @@
+{
+	"images": [
+		"blade.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 622, 638, 0, 0,	-5]
+	],
+	"animations": {
+		"blade": {"frames": [0]}
+	}
+}

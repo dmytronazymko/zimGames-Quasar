@@ -1,0 +1,38 @@
+{
+
+"images": [
+    "hero.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 268, 282, 0, 0, 0],
+    [271, 1, 278, 282, 0, 0, 0],
+    [551, 1, 249, 283, 0, 0, 0],
+    [551, 1, 249, 283, 0, 0, 0],
+    [551, 1, 249, 283, 0, 0, 0],
+    [1, 285, 278, 283, 0, 0, 0],
+    [281, 285, 265, 285, 0, 0, 0],
+    [548, 286, 290, 285, 0, 0, 0],
+    [1, 570, 223, 286, 0, 0, 0],
+    [226, 572, 216, 286, 0, 0, 0],
+    [444, 573, 265, 286, 0, 0, 0],
+    [711, 573, 221, 286, 0, 0, 0]
+],
+
+"animations": {
+    "heroBow": { "frames": [2, 7, 0], "next": "", "speed": 0.05 },
+    "heroShuricane": { "frames": [3, 6, 1], "next": "", "speed": 0.05 },
+    "heroSword": { "frames": [4, 10, 5], "next": "", "speed": 0.05 },
+    "heroLose": { "frames": [8] },
+    "heroStand": { "frames": [9] },
+    "heroWin": { "frames": [11] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:87dc8b8bd9c0a306bc5f0a7bdf367ca8:4acbf49b1e73484e77777d1a61bc4fdf:34e3bbde216eeb78dc91bce3b225b150$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
+    

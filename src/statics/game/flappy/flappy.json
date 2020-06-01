@@ -1,0 +1,45 @@
+{
+
+"images": [
+    "flappy.png"
+],
+
+"framerate": 5,
+"frames": [
+    [1, 1, 226, 185, 0, 0, 0],
+    [1, 188, 122, 97, 0, 0, 0],
+    [125, 188, 95, 227, 0, 0, 0],
+    [1, 287, 105, 89, 0, -1, 0],
+    [1, 378, 105, 89, 0, -1, 0],
+    [108, 417, 105, 89, 0, -1, 0],
+    [1, 469, 105, 89, 0, -1, 0],
+    [108, 508, 95, 191, 0, 0, 0],
+    [1, 560, 95, 156, 0, 0, 0],
+    [98, 701, 95, 109, 0, 0, 0],
+    [1, 718, 95, 107, 0, 0, 0],
+    [1, 827, 71, 70, 0, 0, 0],
+    [98, 812, 95, 83, 0, 0, 0]
+],
+
+"animations": {
+    "flappy-button": { "frames": [0] },
+    "answer-box": { "frames": [1] },
+    "pipe-top2": { "frames": [2] },
+    "bird-close": { "frames": [3, 4] },
+    "bird-open": { "frames": [5, 6] },
+    "pipe-bot2": { "frames": [7] },
+    "pipe-mid2": { "frames": [8] },
+    "pipe-mid1": { "frames": [9] },
+    "pipe-bot1": { "frames": [10] },
+    "floor-block": { "frames": [11] },
+    "pipe-top1": { "frames": [12] },
+    "bird-fly": { "frames": [3, 5], "next": "bird-fly", "speed": 0.05 },
+    "dive": { "frames": [4] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:eaacfdd420e93df0f88f3d7a5729de8a:c4df9d1adb5a593f70b001a427f41896:e5f116c42a67fac91c23e059d5eeab2d$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

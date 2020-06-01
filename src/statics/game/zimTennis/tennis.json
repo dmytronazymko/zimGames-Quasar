@@ -1,0 +1,31 @@
+{
+
+"images": [
+    "tennis.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 253, 217, 0, -2, -11],
+    [256, 1, 255, 120, 0, 0, 0],
+    [256, 123, 255, 120, 0, 0, 0],
+    [1, 220, 253, 217, 0, -2, -11],
+    [256, 245, 255, 119, 0, 0, 0],
+    [256, 366, 31, 31, 0, 0, 0]
+],
+
+"animations": {
+    "gauge-empty": { "frames": [0] },
+    "button1": { "frames": [1] },
+    "button2": { "frames": [2] },
+    "gauge-full": { "frames": [3] },
+    "button3": { "frames": [4] },
+    "ball": { "frames": [5] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:c2d894d77bd1cc34077312a3273f4f64:84bfa9f8c988b41f4d9da44924fdd5b9:9b5808aea2665c65e31e1f3864cf30ea$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

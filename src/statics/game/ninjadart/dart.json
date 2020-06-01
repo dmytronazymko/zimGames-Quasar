@@ -1,0 +1,12 @@
+{
+	"images": [
+		"dart.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 39, 91, 0, 0,	-5]
+	],
+	"animations": {
+		"dart": {"frames": [0]}
+	}
+}

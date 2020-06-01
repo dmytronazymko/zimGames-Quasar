@@ -1,0 +1,39 @@
+{
+
+"images": [
+    "rifle.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 80, 80, 0, 0, 0],
+    [83, 1, 81, 80, 0, 0, 0],
+    [166, 1, 81, 80, 0, 0, 0],
+    [249, 1, 92, 94, 0, 0, 0],
+    [343, 1, 92, 94, 0, 0, 0],
+    [437, 1, 173, 171, 0, 0, 0],
+    [612, 1, 249, 252, 0, 0, 0],
+    [1, 97, 300, 300, 0, 0, 0],
+    [303, 174, 300, 300, 0, 0, 0],
+    [605, 255, 300, 300, 0, 0, 0]
+],
+
+"animations": {
+    "icon-green": { "frames": [0] },
+    "icon-red": { "frames": [1] },
+    "icon-yellow": { "frames": [2] },
+    "button-aim": { "frames": [3] },
+    "button-fire": { "frames": [4] },
+    "joystick": { "frames": [5] },
+    "joystick-bg": { "frames": [6] },
+    "rifle-scope-correct": { "frames": [7] },
+    "rifle-scope-original": { "frames": [8] },
+    "rifle-scope-wrong": { "frames": [9] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ffb1dca6074aa62d7ccb2f4bc2e930ae:1d3a98486ce09e1c6713b6300e11dbc5:48de2e60ed29c2b4daf4dcb18041b6d1$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

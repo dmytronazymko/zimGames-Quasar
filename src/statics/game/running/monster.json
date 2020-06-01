@@ -1,0 +1,25 @@
+{
+
+"images": [
+    "monster-sprites.png"
+],
+
+"framerate": 20,
+"frames": [
+	[0, 0, 185, 120, 0, 0, 0],
+	[195, 0, 185, 120, 0, 0, 0],
+	[0, 118, 200, 120, 0, 0, 0],
+	[195, 118, 220, 120, 0, 0, 0]
+],
+
+"animations": {
+    "move": { "frames": [0, 1], "next": "move", "speed": 0.05 },
+    "catch": { "frames": [2, 3], "next": "", "speed": 0.05 }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:bc98a8ad772f4fe7e78cce1d86329610:40da1b2563af90599cf8d625a0ee630e:41899e235aed443442e80a2432c9f35b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

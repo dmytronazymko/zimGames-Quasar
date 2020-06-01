@@ -1,0 +1,12 @@
+{
+	"images": [
+		"wheel.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 360, 360, 0, 0, 0]
+	],
+	"animations": {
+		"wheel": {"frames": [0]}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"images": [
+		"spike2.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 271, 536, 0, 0,	-5]
+	],
+	"animations": {
+		"blade": {"frames": [0]}
+	}
+}

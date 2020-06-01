@@ -1,0 +1,12 @@
+{
+	"images": [
+		"wheelbutton.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 250, 250, 0, 0,	-5]
+	],
+	"animations": {
+		"but": {"frames": [0]}
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"images": [
+		"wheel-base.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[
+			0,
+			0,
+			1730,
+			1908,
+			0,
+			0,
+			-5
+		]
+	],
+	"animations": {
+		"a": {
+			"frames": [
+				0
+			]
+		}
+	}
+}

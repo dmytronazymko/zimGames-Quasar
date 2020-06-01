@@ -1,0 +1,12 @@
+{
+	"images": [
+		"block.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 79, 53, 0, 0,	-5]
+	],
+	"animations": {
+		"block": {"frames": [0]}
+	}
+}

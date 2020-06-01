@@ -1,0 +1,12 @@
+{
+	"images": [
+		"answer-paper.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 505, 356, 0, 0,	-5]
+	],
+	"animations": {
+		"paper": {"frames": [0]}
+	}
+}

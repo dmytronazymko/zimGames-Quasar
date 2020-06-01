@@ -1,0 +1,56 @@
+{
+
+"images": [
+    "ninjashooting.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 386, 381, 0, 0, -43],
+    [1, 384, 387, 376, 0, -13, -48],
+    [1, 762, 117, 258, 0, -59, -40],
+    [120, 762, 117, 258, 0, -59, -40],
+    [239, 762, 117, 258, 0, -59, -40],
+    [358, 762, 117, 258, 0, -59, -40],
+    [389, 1, 357, 376, 0, -12, -48],
+    [389, 1, 357, 376, 0, -12, -48],
+    [390, 379, 357, 376, 0, -13, -48],
+    [477, 757, 117, 258, 0, -59, -40],
+    [596, 757, 117, 258, 0, -59, -40],
+    [748, 1, 238, 298, 0, 0, 0],
+    [988, 1, 299, 93, 0, 0, 0],
+    [988, 96, 238, 298, 0, 0, 0],
+    [749, 301, 190, 139, 0, -2, 0],
+    [941, 396, 238, 298, 0, 0, 0],
+    [749, 442, 189, 140, 0, -3, 0],
+    [1181, 396, 105, 105, 0, 0, 0],
+    [749, 584, 173, 269, 0, -39, -29],
+    [1181, 503, 74, 12, 0, 0, 0],
+    [924, 696, 173, 269, 0, -39, -29],
+    [1099, 696, 173, 269, 0, -39, -29],
+    [715, 855, 146, 108, 0, 0, 0]
+],
+
+"animations": {
+    "ninja-fire": { "frames": [6, 8, 1, 0, 7], "next": "", "speed": 0.1 },
+    "ninja-stand": { "frames": [6] },
+    "balloon1": { "frames": [2, 3], "next": "balloon1", "speed": 0.05 },
+    "balloon2": { "frames": [4, 5], "next": "balloon2", "speed": 0.05 },
+    "balloon3": { "frames": [9, 10], "next": "balloon3", "speed": 0.05 },
+    "balloon1-pop": { "frames": [18, 11], "next": "", "speed": 0.1 },
+    "platform": { "frames": [12] },
+    "balloon2-pop": { "frames": [20, 13], "next": "", "speed": 0.1 },
+    "button-down": { "frames": [14] },
+    "balloon3-pop": { "frames": [21, 15], "next": "", "speed": 0.1 },
+    "button-up": { "frames": [16] },
+    "platform-gear": { "frames": [17] },
+    "arrow": { "frames": [19] },
+    "button-fire": { "frames": [22] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:c348c3f1a96bbbfedd7842157a9203ad:baa40618ac2cc40c4f48e94ff3cb3fd6:054d25037bcd7822a2e9943c0ace8539$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

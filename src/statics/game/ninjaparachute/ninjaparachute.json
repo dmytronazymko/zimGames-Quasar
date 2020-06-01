@@ -1,0 +1,39 @@
+{
+
+"images": [
+    "ninjaparachute.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 281, 221, 0, 0, 0],
+    [284, 1, 281, 221, 0, 0, 0],
+    [567, 1, 280, 221, 0, 0, 0],
+    [849, 1, 1025, 197, 0, 0, -13],
+    [1876, 1, 84, 81, 0, 0, 0],
+    [1962, 1, 84, 81, 0, 0, 0],
+    [1876, 84, 84, 81, 0, 0, 0],
+    [1962, 84, 84, 81, 0, 0, 0],
+    [1876, 167, 84, 81, 0, 0, 0],
+    [1962, 167, 84, 81, 0, 0, 0]
+],
+
+"animations": {
+    "button-bg-blue": { "frames": [0] },
+    "button-bg-green": { "frames": [1] },
+    "button-bg-red": { "frames": [2] },
+    "boxes": { "frames": [3] },
+    "blue-left": { "frames": [4] },
+    "blue-right": { "frames": [5] },
+    "green-left": { "frames": [6] },
+    "green-right": { "frames": [7] },
+    "red-left": { "frames": [8] },
+    "red-right": { "frames": [9] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:f50cb1ee9b6a5095b22e5eada0c7e276:15e770471509b414c8853e4c5ae9adf8:69c556fcd90013436e7db3743dea926e$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

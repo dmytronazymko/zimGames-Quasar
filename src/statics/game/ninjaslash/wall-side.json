@@ -1,0 +1,12 @@
+{
+	"images": [
+		"wall-side.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 647, 2765, 0, 0,	-5]
+	],
+	"animations": {
+		"wall": {"frames": [0]}
+	}
+}

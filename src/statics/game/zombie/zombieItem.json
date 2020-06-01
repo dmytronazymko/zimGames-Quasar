@@ -1,0 +1,31 @@
+{
+
+"images": [
+    "zombieItem.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 56, 202, 0, 0, 0],
+    [1, 205, 1024, 24, 0, 0, 0],
+    [59, 1, 98, 147, 0, 0, 0],
+    [159, 1, 98, 147, 0, 0, 0],
+    [259, 1, 98, 147, 0, 0, 0]
+],
+
+"animations": {
+    "ladder": { "frames": [0] },
+    "wood": { "frames": [1] },
+    "door1": { "frames": [2] },
+    "door2": { "frames": [3] },
+    "door3": { "frames": [4] },
+    "opening": { "frames": [2, 3, 4], "speed": 0.05 },
+    "closing": { "frames": [4, 3, 2], "speed": 0.05 }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:8472654e8cd1c2c0a7c994e2c4e14b26:4ea7424fd10cf8fe501dff079f29a3ee:594ffff4f123d1ec02ae45dca1eb9976$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,12 @@
+{
+	"images": [
+		"circle.png"
+	],
+	"framerate": 20,
+	"frames": [
+		[0,	0, 198, 200, 0, 0,	-5]
+	],
+	"animations": {
+		"circle": {"frames": [0]}
+	}
+}
